@@ -4,7 +4,7 @@ Here’s the complete **README.md** with all the updates included:
 
 # **Buildathon 3.0 - Track 1: No-Code Startup Idea**  
 
-## **Project Name: [Your Project Name]**  
+## **Project Name: CareerConnect**  
 
 ### **Overview**  
 This project was developed as part of **Buildathon 3.0**, under **Track 1: No-Code Startup Idea**. Our platform is designed to help users monetize their skills, connect with job opportunities, and find internships. With an intuitive, user-driven interface, we aim to create an ecosystem where freelancers, job seekers, and employers can thrive.  
@@ -106,12 +106,13 @@ This all-in-one solution is designed to be user-driven, where every feature is p
 ---  
 
 ### **Slides**  
-Access the project presentation slides [here](link-to-slides).  
+Access the project presentation slides ([Ideakers Pitch Deck.pdf](https://github.com/user-attachments/files/18044394/Ideakers.Pitch.Deck.pdf)
+).  
 
 ---  
 
 ### **Business Model**  
-Access the detailed business model [here](link-to-business-model).  
+Access the detailed business model .  
 
 ---  
 
