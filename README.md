@@ -131,6 +131,4 @@ Access the detailed business model [here](link-to-business-model).
 ### **Contact**  
 If you have any questions or suggestions, feel free to reach out at [your email/LinkedIn].  
 
----  
-
-This README provides a clear, structured, and professional overview of your project for judges or contributors. Let me know if you'd like further refinements!
+---
