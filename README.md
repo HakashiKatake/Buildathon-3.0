@@ -115,8 +115,3 @@ https://www.figma.com/design/AfFWhFuLJylxC5LhaqYIb3/Job-Finder-Landing-Page-(Com
 - **Saurabh**: Development, Documentation, and Research  
 
 ---  
-
-### **Contact**  
-If you have any questions or suggestions, feel free to reach out at [your email/LinkedIn].  
-
----
