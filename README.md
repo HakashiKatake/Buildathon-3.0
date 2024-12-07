@@ -70,22 +70,6 @@ This all-in-one solution is designed to be user-driven, where every feature is p
 
 ---  
 
-### **How to Run the Project**  
-
-#### **Prerequisites**  
-1. A modern web browser.  
-2. Access to the no-code platform used to develop the website (if self-hosting).  
-
-#### **Steps to Run**  
-1. Clone this repository:  
-   ```bash  
-   git clone <repository-link>  
-   ```  
-2. Navigate to the `README.md` or follow the `setup.md` file for platform-specific instructions.  
-3. Deploy the website or run the local build to view the project.  
-
----  
-
 ### **Repository Structure**  
 ```plaintext  
 📦 [Repository Name]  
@@ -115,6 +99,9 @@ Access the project presentation slides ([Ideakers Pitch Deck.pdf](https://github
 Access the detailed business model .  
 
 ---  
+
+### **Figma**
+https://www.figma.com/design/AfFWhFuLJylxC5LhaqYIb3/Job-Finder-Landing-Page-(Community)?node-id=0-1&t=Ynr6lqrYE7GYWrCK-1
 
 ### **Team Name & Members**  
 
