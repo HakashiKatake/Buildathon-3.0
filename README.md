@@ -86,7 +86,10 @@ This all-in-one solution is designed to be user-driven, where every feature is p
 ---  
 
 ### **Demo Video**  
-[Embed or link to your demo video here (e.g., YouTube, Google Drive).]  
+
+https://github.com/user-attachments/assets/836445e1-5e41-4582-8a7f-afe893b3947b
+
+
 
 ---  
 
