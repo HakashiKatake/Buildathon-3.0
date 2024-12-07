@@ -89,7 +89,8 @@ This all-in-one solution is designed to be user-driven, where every feature is p
 ---  
 
 ### **Slides**  
-Access the project presentation slides ([Ideakers Pitch Deck.pdf](https://github.com/user-attachments/files/18044394/Ideakers.Pitch.Deck.pdf)
+Access the project presentation slides [Ideakers Pitch Deck.pdf](https://github.com/user-attachments/files/18046173/Ideakers.Pitch.Deck.pdf)
+
 ).  
 
 ---  
