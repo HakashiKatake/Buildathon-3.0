@@ -1,9 +1,9 @@
-# **Buildathon 3.0 - Track 1: No-Code Startup Idea**  
+# **Buildathon 3.0 - Track 2: No-Code Startup Idea**  
 
 ## **Project Name: CareerConnect**  
 
 ### **Overview**  
-This project was developed as part of **Buildathon 3.0**, under **Track 1: No-Code Startup Idea**. Our platform is designed to help users monetize their skills, connect with job opportunities, and find internships. With an intuitive, user-driven interface, we aim to create an ecosystem where freelancers, job seekers, and employers can thrive.  
+This project was developed as part of **Buildathon 3.0**, under **Track 2: No-Code Startup Idea**. Our platform is designed to help users monetize their skills, connect with job opportunities, and find internships. With an intuitive, user-driven interface, we aim to create an ecosystem where freelancers, job seekers, and employers can thrive.  
 
 ### **Prototype/Website**
 Website - https://jubilant-page-912272.framer.app
